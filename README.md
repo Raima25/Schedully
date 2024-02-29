@@ -1,6 +1,7 @@
-![Schedully Logo](https://github.com/Raima25/Schedully/assets/69042159/363fb1a1-6ef7-4b43-86d5-c5e86c6e9864)
-
-# Welcome to Schedully!
+<p align="left">
+  <img src="https://github.com/Raima25/Schedully/assets/69042159/363fb1a1-6ef7-4b43-86d5-c5e86c6e9864" width="100" alt="Schedully Logo"/>
+  <h1>Welcome to Schedully!</h1>
+</p>
 
 **Your ultimate companion in navigating the bustling life of college with ease and efficiency.**
 
