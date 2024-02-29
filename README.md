@@ -14,4 +14,7 @@ Assignment Tracker:  Are you overwhelmed by the continuous canvas notifications 
 Exam Preparation: Do you have 3 midterms back to back and don't know how to plan? Stay prepared for your exams with our intuitive exam management feature. Input and access details like date, time, and location for each exam, helping you to plan and prepare without stress.
 Extracurriculars: Do you have a react app due for Bits of Good tonight? We know that college is not only about our academics! Use the Extracurriculars section to organize and manage all the tasks for your extracurriculars.
 
-![image](https://github.com/Raima25/Schedully/assets/69042159/ad60b553-c876-4b90-9853-09fe1806f368)
+![image](https://github.com/Raima25/Schedully/assets/69042159/ad60b553-c876-4b90-9853-09fe1806f368)![image](https://github.com/Raima25/Schedully/assets/69042159/d18ac4b8-add8-414d-991a-e7cf65b11162)![image](https://github.com/Raima25/Schedully/assets/69042159/cfb91e21-385c-474e-8cf6-de42699af841)![image](https://github.com/Raima25/Schedully/assets/69042159/9e0cb50b-673d-43d7-a073-424529bf62ec)
+
+
+
